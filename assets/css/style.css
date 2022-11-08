@@ -18,9 +18,8 @@ nav{
     color:rgb(94, 91, 91);
     padding: 20px 15%; 
     border-right: solid 1px rgb(251, 248, 248);
-    background-image: url('/assets/img/fondo2.jpeg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url('../img/fondo2.jpg');
+    background-position: center;
     font-size: 1.2rem;
 }
 
